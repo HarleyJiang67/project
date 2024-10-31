@@ -1,0 +1,9 @@
+name: dstoolbox
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - nb_conda_kernels
+  - scikit-learn
+  - python >=3.10*
+prefix: C:\Users\harle\miniconda3\envs\dstoolbox
